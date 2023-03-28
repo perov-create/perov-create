@@ -1,4 +1,4 @@
-# Hello👋.
+# Hello👋, my name is Maxim Perov.
 ## I'm a Front-end developer.
 *   🧠  Currently learning React.
 
