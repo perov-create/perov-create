@@ -1,4 +1,4 @@
-# Hi👋, my name is Maxim Perov
+# Hi!👋 My name is Maxim Perov
 ## I'm Front-end developer
 *  🧠 Currently learning - React
 *  💬  If you want to talk <strong><a href="https://t.me/asphyxiao" rel="nofollow">Telegram</strong>
