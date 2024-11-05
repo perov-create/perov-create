@@ -1,7 +1,6 @@
 # Hi!👋 My name is Maxim Perov
 ## I'm Frontend developer
 *  🧠 Currently learning - React
-*  💬  If you want to talk <strong><a href="https://t.me/asphyxiao" rel="nofollow">Telegram</strong>
 
 ### Skills:
 
