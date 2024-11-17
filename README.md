@@ -1,6 +1,6 @@
-# Hi!👋 My name is Maxim Perov
-## I'm Frontend developer
-*  🧠 Currently learning - React
+# Hi. My name is Maxim Perov
+## I'm frontend developer
+*  Currently learning - React
 
 ### Skills:
 
