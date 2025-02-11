@@ -124,7 +124,6 @@ Frontend Developer
 
 ## 🐦 Contact
 
--  &nbsp;**[VK](https://vk.com/evenlylifelight)**
 -  &nbsp;**[Telegram](https://t.me/asphyxiao)**
 -  &nbsp;**[Github](https://github.com/perov-create)**
 
