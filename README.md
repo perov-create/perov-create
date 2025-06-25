@@ -1,4 +1,3 @@
-<h1 align="left">:wave: Hello! I'm Maxim Perov</h1>
 Frontend Developer
 
 <br>
