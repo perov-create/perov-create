@@ -1,5 +1,3 @@
-Frontend Developer
-
 <h2 align="left" id='perov'>🧊 Tech stack</h2>
 
 > General
